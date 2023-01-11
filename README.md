@@ -4,7 +4,8 @@ Reading traffic data from file and analysize traffic data
 
 ### Java Version ###
 
-* 1.8+
+* JDK 1.8+
+* Maven 3.6+
 
 ### Build Run the Module ###
 
